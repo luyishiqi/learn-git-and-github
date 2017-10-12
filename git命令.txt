@@ -8,3 +8,21 @@
 
 
 git clone 项目url ====》下载项目到本地
+
+
+
+******配置git用户信息*******
+git config --global user.email "邮箱地址"
+git config --global user.name "用户名"
+
+
+******查看当前项目（仓库）的状态******
+git status
+
+********提交代码*******
+
+git add .  ===>将修改过的文件添加进暂存区
+git commit -m "本次提交的说明"  =====> 将暂存区的东西添加一个备注说明
+git push
+
+
