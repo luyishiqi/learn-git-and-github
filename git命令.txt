@@ -1,0 +1,10 @@
+
+
+项目的url规则 ：   https://github.com/用户名/项目名字.git
+
+
+
+
+
+
+git clone 项目url ====》下载项目到本地
