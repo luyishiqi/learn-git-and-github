@@ -34,6 +34,26 @@ git push
 
 2.切换分支
 
+    git  checkout 分支名
+
+3.创建分支并且切换到分支
+git checkout -b 分支名
+
+*****分支操作*****
+
+查看本地所有分支
+git  branch   
+
+创建新分支
+git  branch  分支名   
+
+删除分支
+
+git branch -d  分支名
+
+下载远程分支到本地
+
+git checkout -b 分支名 origin/分支名
 
 
 
