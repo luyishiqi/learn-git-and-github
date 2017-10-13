@@ -1,28 +1,39 @@
 
 
-ÏîÄ¿µÄurl¹æÔò £º   https://github.com/ÓÃ»§Ãû/ÏîÄ¿Ãû×Ö.git
+ï¿½ï¿½Ä¿ï¿½ï¿½urlï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½   https://github.com/ï¿½Ã»ï¿½ï¿½ï¿½/ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½.git
 
 
 
 
 
 
-git clone ÏîÄ¿url ====¡·ÏÂÔØÏîÄ¿µ½±¾µØ
+git clone ï¿½ï¿½Ä¿url ====ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 
 
-******ÅäÖÃgitÓÃ»§ÐÅÏ¢*******
-git config --global user.email "ÓÊÏäµØÖ·"
-git config --global user.name "ÓÃ»§Ãû"
+******ï¿½ï¿½ï¿½ï¿½gitï¿½Ã»ï¿½ï¿½ï¿½Ï¢*******
+git config --global user.email "ï¿½ï¿½ï¿½ï¿½ï¿½Ö·"
+git config --global user.name "ï¿½Ã»ï¿½ï¿½ï¿½"
 
 
-******²é¿´µ±Ç°ÏîÄ¿£¨²Ö¿â£©µÄ×´Ì¬******
+******ï¿½é¿´ï¿½ï¿½Ç°ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½Ö¿â£©ï¿½ï¿½×´Ì¬******
 git status
 
-********Ìá½»´úÂë*******
+********ï¿½á½»ï¿½ï¿½ï¿½ï¿½*******
 
-git add .  ===>½«ÐÞ¸Ä¹ýµÄÎÄ¼þÌí¼Ó½øÔÝ´æÇø
-git commit -m "±¾´ÎÌá½»µÄËµÃ÷"  =====> ½«ÔÝ´æÇøµÄ¶«Î÷Ìí¼ÓÒ»¸ö±¸×¢ËµÃ÷
+git add .  ===>ï¿½ï¿½ï¿½Þ¸Ä¹ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½Ó½ï¿½ï¿½Ý´ï¿½ï¿½ï¿½
+git commit -m "ï¿½ï¿½ï¿½ï¿½ï¿½á½»ï¿½ï¿½Ëµï¿½ï¿½"  =====> ï¿½ï¿½ï¿½Ý´ï¿½ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½×¢Ëµï¿½ï¿½
 git push
+
+
+
+******checkoutå‘½ä»¤ä½œç”¨*****
+
+1.åœ¨æœª addå‰ï¼Œæ’¤é”€æ–‡ä»¶çš„ä¿®æ”¹
+    git checkout æ–‡ä»¶è·¯å¾„
+
+2.åˆ‡æ¢åˆ†æ”¯
+
+
 
 
